@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "wrangler pages dev ./public --do COUNTER=Counter"
+  },
+  "devDependencies": {
+    "wrangler": "^3.28.3"
+  }
+}
